@@ -4,7 +4,7 @@
     <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
     <class>com.mycompany.jpa.Student</class>
   </persistence-unit>
-  <persistence-unit name="jpa" transaction-type="RESOURCE_LOCAL">
+  <persistence-unit name="jpa2" transaction-type="RESOURCE_LOCAL">
     <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
     <class>com.mycompany.jpa.Perro</class>
   </persistence-unit>
